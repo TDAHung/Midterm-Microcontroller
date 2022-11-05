@@ -1,0 +1,6 @@
+7segment_control.c:54:6:update7SEG	24	static
+7segment_control.c:60:6:resetCounter	4	static
+7segment_control.c:64:6:increaseCounter	4	static
+7segment_control.c:68:6:decreaseCounter	4	static
+7segment_control.c:72:6:countdown	4	static
+7segment_control.c:76:6:display7SEG	8	static
